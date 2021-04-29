@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Loai\source\repos\AuctionSystem\AuctionSystem\Source.cpp(194,29): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Loai\source\repos\AuctionSystem\AuctionSystem\Source.cpp(231,52): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Loai\source\repos\AuctionSystem\AuctionSystem\Source.cpp(591,14): warning C4553: '==': result of expression not used; did you intend '='?
+  AuctionSystem.vcxproj -> C:\Users\Loai\source\repos\AuctionSystem\Debug\AuctionSystem.exe
